@@ -1,0 +1,12 @@
+- sentences_cia:				https://slack-files.com/T03GPE31X-F3EMYBAU8-e52a80e2ed 
+- crime_rates:					https://slack-files.com/T03GPE31X-F3AME3CP2-abae88609f
+- naive_bayes:					https://slack-files.com/T03GPE31X-F3H61A23W-8e5ede8585
+- census_2010: 					https://slack-files.com/T03GPE31X-F3H6BU4FP-8f439ff262
+- wine_quality_white: 				https://slack-files.com/T03GPE31X-F3H3TKYSW-2a7aa77860
+- world_alcohol:				https://slack-files.com/T03GPE31X-F1JFT0WN6-aa84f57f90
+- food_info:					https://slack-files.com/T03GPE31X-F1JF8DV54-6a39da2940
+- us_income: 					https://slack-files.com/T03GPE31X-F19AMPZTM-85065e7472
+- census_1980,1990,2000:			https://slack-files.com/T03GPE31X-F3Z0MPL8L-38a94fccae
+- askreddit_2015:				https://slack-files.com/T03GPE31X-F1BLJ2Y9X-20ad3d4f3e
+- academy_awards:				https://slack-files.com/T03GPE31X-F1SN5508G-ca6ae5f0c7
+- airlines, airports, geo_routes, routes:	https://slack-files.com/T03GPE31X-F3ZJDJKGW-570025cb6d
